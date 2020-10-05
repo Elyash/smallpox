@@ -1,0 +1,1 @@
+from .smallpox import Smallpox
