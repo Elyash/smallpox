@@ -7,5 +7,5 @@ setup(
     author='Elyash',
     author_email='elyashiv@gmail.com',
     description='Description of my package',
-    packages=find_packages()
+    py_modules=['smallpox']
 )
